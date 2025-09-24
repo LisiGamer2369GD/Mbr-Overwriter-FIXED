@@ -1,0 +1,5 @@
+C:\Users\Lisi Gamer GD\source\repos\MbrOverwriter\MbrOverwriter\bin\Debug\MbrOverwriter.exe
+C:\Users\Lisi Gamer GD\source\repos\MbrOverwriter\MbrOverwriter\bin\Debug\MbrOverwriter.pdb
+C:\Users\Lisi Gamer GD\source\repos\MbrOverwriter\MbrOverwriter\obj\Debug\MbrOverwriter.csproj.CoreCompileInputs.cache
+C:\Users\Lisi Gamer GD\source\repos\MbrOverwriter\MbrOverwriter\obj\Debug\MbrOverwriter.exe
+C:\Users\Lisi Gamer GD\source\repos\MbrOverwriter\MbrOverwriter\obj\Debug\MbrOverwriter.pdb
