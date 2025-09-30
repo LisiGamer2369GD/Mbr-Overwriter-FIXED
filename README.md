@@ -1,5 +1,5 @@
 # UPDATE!:
 
-Its a update, i fixed it a code because there is a error something.
+It's a update, @PilitoYT he trying to help me to fix it because he told me is "requireAdministrator" not "requireAdministrador" so look like a spanish language, so i fixed it, and PilitoYT is trying to fix it and now done, its work!
 
-its a virus, use virutal machine, if you open it and if you restart your pc, your pc is completed mbr overwriter sorry. so don't use your real pc, the will destroying your pc. use VM
+this is a virus, so use virutal machine if you wanna test it and whatever you do, do not open my virus in your real pc, because if you open it, your real pc is completed destroying and showing text
