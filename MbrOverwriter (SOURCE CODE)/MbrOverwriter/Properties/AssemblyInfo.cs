@@ -7,11 +7,11 @@ using System.Runtime.InteropServices;
 // asociada con un ensamblado.
 [assembly: AssemblyTitle("MbrOverwriter")]
 [assembly: AssemblyDescription("OPEN IT")]
-[assembly: AssemblyConfiguration("OPEN IT")]
-[assembly: AssemblyCompany("OPEN IT")]
-[assembly: AssemblyProduct("OPEN IT")]
-[assembly: AssemblyCopyright("OPEN IT")]
-[assembly: AssemblyTrademark("OPEN IT")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("")]
+[assembly: AssemblyCopyright("")]
+[assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
 // Si establece ComVisible en false, los tipos de este ensamblado no estarán visibles 
